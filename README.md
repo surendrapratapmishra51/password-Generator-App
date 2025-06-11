@@ -18,7 +18,7 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 3. Click the copy icon to use the password anywhere.
 
 ## 📷 Screenshot
-![Password Generator](Screenshot1.png)
+![Password Generator](Screenshot1.png.png)
 ![Password Generated](Screenshot2.png)
 
 
