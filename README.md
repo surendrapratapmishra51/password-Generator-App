@@ -19,7 +19,7 @@ A simple and responsive password generator built with HTML, CSS, and JavaScript.
 
 ## 📷 Screenshot
 ![Password Generator](Screenshot1.png.png)
-![Password Generated](Screenshot2.png)
+![Password Generated](Screenshot2.png.png)
 
 
 ## 👨‍💻 Author
